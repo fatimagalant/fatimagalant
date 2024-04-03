@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 😄 Pronouns: she/her/hers
-- 🔭 I’m currently working on a few php based projects
-- 🌱 I’m currently learning php & magento
+- 🔭 I’m currently working on a few python & java based projects
+- 🌱 I’m currently learning python and java
 - 👯 I’m looking to collaborate on nothing at the moment
 - 🤔 I’m looking for help with nothing at the moment
 - 📫 How to reach me: https://www.linkedin.com/in/fatimagalant/
